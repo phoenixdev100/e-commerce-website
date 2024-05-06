@@ -1,4 +1,4 @@
-## demo# Welcome 🖐 to the E-Commerce Website
+# Welcome 🖐 to the E-Commerce Website
 
 This project is an e-commerce website created using HTML, CSS, and possibly JavaScript for interactivity. It includes features such as product listings, a shopping cart, and a checkout process. The website's design is implemented using CSS for styling, providing a user-friendly interface for browsing and purchasing products.
 
